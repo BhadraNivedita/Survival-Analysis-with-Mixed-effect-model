@@ -23,3 +23,6 @@ In survival analysis, we use this data to estimate the survival function, which 
 By analyzing this data, researchers can understand the effectiveness of the new cancer treatment over time and make informed decisions about its potential benefits for patients.
 
 In the following section, We will discuss a survival analysis in R.
+
+
+

@@ -21,3 +21,5 @@ Here are the survival times and censoring status for each patient:
 In survival analysis, we use this data to estimate the survival function, which shows the probability of surviving past a certain time point. We can also identify factors that might affect survival times, such as age, gender, or genetic markers, by incorporating them into survival models like the Cox proportional hazards model.
 
 By analyzing this data, researchers can understand the effectiveness of the new cancer treatment over time and make informed decisions about its potential benefits for patients.
+
+In the following section, We will discuss a survival analysis in R.
